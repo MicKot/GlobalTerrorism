@@ -10,4 +10,5 @@ __Packages needed to run script gt.ipynb:__
 2. pandas
 3. plotly
 
-
+## IMPORTANT
+__Current version of gt.ipynb is using offline plotly generator__
